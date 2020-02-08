@@ -4,7 +4,7 @@
 
 
 ## Training and Testing Data
-[Download Training and Testing Data Here](https://sjliu.me/lcz/data/lcz_sample_shp_release.zip)
+[Download Training and Testing Data Here](https://drive.google.com/open?id=1u3V46I1ssIJrRV8NnubrWtS_T-M1nmDA) or [Here](https://sjliu.me/lcz/data/lcz_sample_shp_release.zip)
 
 | Region  | Major City  | Note  |  
 |---|---|---|

@@ -1,5 +1,21 @@
-# Local climate zone mapping in three economic regions in China
+# Local Climate Zone Mapping as Remote Sensing Scene Classification using Deep Learning: A Case Study of Metropolitan China
 
-Sample data and codes will be released soon.
+Contact: liusj@hku.hk
 
-Contact: liushengjie0756 AT gmail.com
+## Overview
+
+### Training and Testing Data
+The Greater Bay Area: Guangzhou, Zhuhai, Shenzhen, Hong Kong
+The Shanghai Metropolis: Shanghai and Hangzhou
+The Beijing Metropolis: Beijing and Tianjin
+
+### Pretrained model
+Please use the follow normalization when applying the model.
+```
+data = data/5000.0
+data = np.float32(data)
+```
+
+
+
+

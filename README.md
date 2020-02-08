@@ -16,8 +16,12 @@ Contact: liusj@hku.hk or sjliu.me@gmail.com
 ## Pretrained model
 [Download Pretrained Model Here](https://sjliu.me/lcz)
 
-The size of input is 64<img src="https://render.githubusercontent.com/render/math?math=\times">64 with 10 channel
+The size of input is <img src="https://render.githubusercontent.com/render/math?math=64\times 64"> with 10 channels
 
+```
+The channel order is (channel & Sentinel-2 band):
+[0,1,2,3,4,5,6, 7, 8, 9] = [2,3,4,5,6,7,8,11,12,8A]
+```
 
 
 

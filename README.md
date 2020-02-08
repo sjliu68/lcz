@@ -2,10 +2,9 @@
 
 Contact: liusj@hku.hk or sjliu.me@gmail.com
 
-## Overview
 
-### Training and Testing Data
-[Download Data Here](https://sjliu.me/lcz/data/lcz_sample_shp_release.zip)
+## Training and Testing Data
+[Download Training and Testing Data Here](https://sjliu.me/lcz/data/lcz_sample_shp_release.zip)
 
 | Region  | Major City  | Note  |  
 |---|---|---|
@@ -14,7 +13,14 @@ Contact: liusj@hku.hk or sjliu.me@gmail.com
 | The Beijing Metropolis  |  Beijing and Tianjin |  Part of Tangshan are included |  
 
 
-### Pretrained model
+## Pretrained model
+[Download Pretrained Model Here](https://sjliu.me/lcz)
+
+The size of input is 64<img src="https://render.githubusercontent.com/render/math?math=\times">64 with 10 channel
+
+
+
+
 Please use the follow normalization when applying the model.
 ```
 data = data/5000.0

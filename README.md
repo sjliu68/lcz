@@ -5,6 +5,8 @@ Contact: liusj@hku.hk
 ## Overview
 
 ### Training and Testing Data
+[Download Data Here](sjliu.me/lcz/data/lcz_sample_shp_release.zip)
+
 The Greater Bay Area: Guangzhou, Zhuhai, Shenzhen, Hong Kong
 The Shanghai Metropolis: Shanghai and Hangzhou
 The Beijing Metropolis: Beijing and Tianjin

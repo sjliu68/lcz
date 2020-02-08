@@ -1,6 +1,6 @@
 # Local Climate Zone Mapping as Remote Sensing Scene Classification using Deep Learning: A Case Study of Metropolitan China
 
-Contact: liusj@hku.hk or sjliu.me@gmail.com
+Contact: liusj [AT] hku.hk or sjliu.me [AT] gmail.com
 
 ## Overview
 

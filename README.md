@@ -4,7 +4,7 @@
 
 
 ## Training and Testing Data
-[Download Training and Testing Data from Google Drive](https://drive.google.com/open?id=1u3V46I1ssIJrRV8NnubrWtS_T-M1nmDA)
+[Download Training and Testing Data from Google Drive](https://drive.google.com/open?id=1u3V46I1ssIJrRV8NnubrWtS_T-M1nmDA) or email me
 
 | Region  | Major City  | Note  |  
 |---|---|---|

@@ -25,7 +25,7 @@ The channel order is (channel & Sentinel-2 band):
 
 
 
-Please use the follow normalization when applying the model.
+Please use the following normalization when applying the model.
 ```
 data = data/5000.0
 data = np.float32(data)

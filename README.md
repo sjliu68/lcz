@@ -14,7 +14,7 @@
 
 
 ## Pretrained model
-[Download Pretrained Model Here](https://sjliu.me/lcz)
+[Download Pretrained Model from Google Drive](https://drive.google.com/open?id=1iVKRaWvxu5RFjjCHyThP-G8BpTf5HOcG).
 
 The size of input is <img src="https://render.githubusercontent.com/render/math?math=64\times 64"> with 10 channels
 

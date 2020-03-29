@@ -5,13 +5,13 @@ Shengjie Liu, Qian Shi
 
 
 ## Training and Testing Data
-[Download Training and Testing Data from Google Drive](https://drive.google.com/open?id=1u3V46I1ssIJrRV8NnubrWtS_T-M1nmDA) or email me
+[Download Training and Testing Data from Google Drive](https://drive.google.com/open?id=1gqb3lDMcd3XpTYSbz6g6cFwRHrSfyLfY) or email me
 
-| Region  | Major City  | Note  |  
+| Region  | Major City  | Other City  |  
 |---|---|---|
-|  The Greater Bay Area |  Guangzhou, Shenzhen, Zhuhai, Macau and Hong Kong | Part of Zhongshan, Jiangmen, Dongguan, Huizhou and Foshan are included  |   
-| The Shanghai Metropolis  | Shanghai and Hangzhou  |  Part of Shaoxing and Jiaxing are included |  
-| The Beijing Metropolis  |  Beijing and Tianjin |  Part of Tangshan are included |  
+|  The Greater Bay Area |  Guangzhou, Shenzhen, Zhuhai, Macau, Hong Kong | Zhongshan, Jiangmen, Dongguan, Huizhou and Foshan |   
+| The Shanghai Metropolis  | Shanghai, Hangzhou  |  Shaoxing, Jiaxing |  
+| The Beijing Metropolis  |  Beijing, Tianjin |  Tangshan |  
 
 
 ## Pretrained model

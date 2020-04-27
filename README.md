@@ -1,5 +1,4 @@
-## Local Climate Zone Mapping as Remote Sensing Scene Classification Using Deep Learning:
-## A Case Study of Metropolitan China
+# Local Climate Zone Mapping as Remote Sensing Scene Classification Using Deep Learning: A Case Study of Metropolitan China
 Shengjie Liu, Qian Shi
 
 **Email**: sjliu.me@gmail.com, shixi5@mail.sysu.edu.cn

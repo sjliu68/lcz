@@ -22,7 +22,7 @@ Tiff file is available [here](https://sjliu.me/lcz/data/release_lcz_prd.zip)
 | The Beijing Metropolis  |  Beijing, Tianjin, Tangshan 北京，天津，及部分唐山 |
 
 
-## Pretrained model
+## Load a pretrained model
 [Download Pretrained Model from Google Drive](https://drive.google.com/open?id=1iVKRaWvxu5RFjjCHyThP-G8BpTf5HOcG).
 
 The size of input is <img src="https://render.githubusercontent.com/render/math?math=64\times 64"> with 10 channels
@@ -42,8 +42,9 @@ import keras
 modelfile = 'modelpath'
 model = keras.models.load_model(modelfile)
 
-data = data/5000.0
 data = np.float32(data)
+data = data/5000.0
+
 
 for subimage in data:
     model.predict(data)

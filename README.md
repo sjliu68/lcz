@@ -5,7 +5,7 @@ Shengjie Liu, Qian Shi
 
 This paper is accepted by ISPRS Journal P&RS
 
-#### Pearl River Delta (The Greater Bay Area)
+## Pearl River Delta (The Greater Bay Area)
 Tiff file is available in "/data/release_lcz_prd.zip"
 ![Pearl River Delta (The Greater Bay Area)](/data/lczmap_prd.png)
 

@@ -1,17 +1,22 @@
 ### Local Climate Zone Mapping as Remote Sensing Scene Classification Using Deep Learning: A Case Study of Metropolitan China
 Shengjie Liu, Qian Shi
 
-**Email**: sjliu.me@gmail.com
+**Email**: sjliu.me@gmail.com, shixi5@mail.sysu.edu.cn
+
+This paper is accepted by ISPRS Journal P&RS
+
+## LCZ maps
+
 
 
 ## Training and Testing Data
 [Download Training and Testing Data from Google Drive](https://drive.google.com/open?id=1gqb3lDMcd3XpTYSbz6g6cFwRHrSfyLfY) or email me
 
-| Region  | Major City  | Other City  |  
-|---|---|---|
-|  The Greater Bay Area |  Guangzhou, Shenzhen, Zhuhai, Macau, Hong Kong | Zhongshan, Jiangmen, Dongguan, Huizhou and Foshan |   
-| The Shanghai Metropolis  | Shanghai, Hangzhou  |  Shaoxing, Jiaxing |  
-| The Beijing Metropolis  |  Beijing, Tianjin |  Tangshan |  
+| Region  | City  | 
+|---|---|
+|  The Greater Bay Area |  Guangzhou, Foshan, Shenzhen, Dongguan, Huizhou, Zhuhai, Zhongshan, Jiangmen, Macau, Hong Kong 广州，佛山，深圳，东莞，惠州，珠海，中山，江门，澳门，香港 |
+| The Shanghai Metropolis  | Shanghai, Hangzhou, Shaoxing 上海，杭州，绍兴 |  
+| The Beijing Metropolis  |  Beijing, Tianjin, Tangshan 北京，天津，及部分唐山 |
 
 
 ## Pretrained model
@@ -21,7 +26,7 @@ The size of input is <img src="https://render.githubusercontent.com/render/math?
 
 ```
 The channel order is (channel & Sentinel-2 band):
-[0,1,2,3,4,5,6, 7, 8, 9] = [2,3,4,5,6,7,8,11,12,8A]
+[0,1,2,3,4,5,6,7,8,9] = [2,3,4,5,6,7,8,11,12,8A]
 ```
 
 

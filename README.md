@@ -35,9 +35,18 @@ The channel order is (channel & Sentinel-2 band):
 
 
 Please use the following normalization when applying the model.
+The subimage should be <img src="https://render.githubusercontent.com/render/math?math=64\times 64 \times Channel">
 ```
+import keras 
+
+modelfile = 'modelpath'
+model = keras.models.load_model(modelfile)
+
 data = data/5000.0
 data = np.float32(data)
+
+for subimage in data:
+    model.predict(data)
 ```
 
 

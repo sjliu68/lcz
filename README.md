@@ -50,7 +50,7 @@ data = data/5000.0
 
 
 for subimage in data:
-    model.predict(data)
+    model.predict(subimage)
 ```
 
 

@@ -5,7 +5,9 @@ Shengjie Liu, Qian Shi
 
 This paper is accepted by ISPRS Journal P&RS. [[Paper](https://doi.org/10.1016/j.isprsjprs.2020.04.008)]
 
-Free access via [this link](https://authors.elsevier.com/a/1b3tE3I9x1cg3y) before July 4.
+~~Free access via [this link](https://authors.elsevier.com/a/1b3tE3I9x1cg3y) before July 4.~~
+
+Preprint via [this link](https://sjliu.me/lcz/lcz_isprs_preprint.pdf)
 
 
 ## Pearl River Delta (The Greater Bay Area)

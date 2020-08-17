@@ -17,7 +17,7 @@ We've generated a new product of the whole Pearl River Delta region (9+2 cities)
 - Used the Sentinel-2 composite images from 2018-2019 to generate the image, so the mosaic effect is reduced to a minimum. 
 - Included the whole administrative area of the following cities: Guangzhou, Foshan, Zhaoqing, Shenzhen, Dongguan, Huizhou, Zhongshan, Jiangmen, Zhuhai, Macau, and Hong Kong (广州，佛山，肇庆，深圳，东莞，惠州，中山，江门，珠海，澳门，香港) 
 
-~~#### Pearl River Delta (The Greater Bay Area)~~
+#### ~~Pearl River Delta (The Greater Bay Area)~~
 ~~Tiff file is available [here](https://sjliu.me/lcz/data/release_lcz_prd.zip)~~ (Dated since 2020-08-18)
 
 ![Pearl River Delta (The Greater Bay Area)](/data/lczmap_prd.png)

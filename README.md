@@ -9,6 +9,10 @@ This paper is accepted by ISPRS Journal P&RS. [[Paper](https://doi.org/10.1016/j
 
 Preprint via [this link](https://sjliu.me/lcz/lcz_isprs_preprint.pdf)
 
+## [New] New Data Released !
+We've generated a new product of the whole Pearl River Delta region (9+2 cities), available [here](https://sjliu.me/lcz/data/release_lcz_prd_v20200818.zip)
+
+New Feature: we used the Sentinel-2 composite images from 2018-2019 to generate the image, so the mosaic effect is reduced to a minimum. 
 
 ## Pearl River Delta (The Greater Bay Area)
 Tiff file is available [here](https://sjliu.me/lcz/data/release_lcz_prd.zip)

@@ -9,7 +9,7 @@ This paper is accepted by ISPRS Journal P&RS. [[Paper](https://doi.org/10.1016/j
 
 Preprint via [this link](https://sjliu.me/lcz/lcz_isprs_preprint.pdf)
 
-## [New] New Data Released !
+## New Data Released (2020-08-18)!
 We've generated a new product of the whole Pearl River Delta region (9+2 cities), available [here](https://sjliu.me/lcz/data/release_lcz_prd_v20200818.zip)
 
 #### New Features
@@ -17,8 +17,8 @@ We've generated a new product of the whole Pearl River Delta region (9+2 cities)
 - Used the Sentinel-2 composite images from 2018-2019 to generate the LCZ map, so the mosaic effect is reduced to a minimum. 
 - Included the whole administrative area of the following cities: Guangzhou, Foshan, Zhaoqing, Shenzhen, Dongguan, Huizhou, Zhongshan, Jiangmen, Zhuhai, Macau, and Hong Kong (广州，佛山，肇庆，深圳，东莞，惠州，中山，江门，珠海，澳门，香港) 
 
-#### ~~Pearl River Delta (The Greater Bay Area)~~
-~~Tiff file is available [here](https://sjliu.me/lcz/data/release_lcz_prd.zip)~~ (Only core urban areas included)
+#### Pearl River Delta (The Greater Bay Area)
+Tiff file is available [here](https://sjliu.me/lcz/data/release_lcz_prd.zip) (Only core urban areas included)
 
 ![Pearl River Delta (The Greater Bay Area)](/data/lczmap_prd.png)
 
